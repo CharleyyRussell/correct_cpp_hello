@@ -12,7 +12,7 @@ master|[![Build Status](https://travis-ci.org/CharleyyRussell/correct_cpp_hello.
 
 ## Prerequisites
 
- * Have created [your 'Correct C++' scoreboard](https://github.com/CharleyyRussell/correct_cpp_scoreboard)
+ * Have created [your 'Correct C++' scoreboard](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
 
 ## Exercise
 
